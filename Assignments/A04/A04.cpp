@@ -47,22 +47,18 @@
 *  Semester:         Fall 2021
 * 
 *  Description:
-*        This program implements a class that allows a linked list to be used just like 
-*        an array. It overloads the "[]" (square brackets) to simulate accessing seperate 
-*        array elements, but really it traverses the list to find the specified node using
-*        an index value. It also overloads the "+" and "-" signs allowing a user to "add"
-*        or "push" items onto the end of the list, as well as "pop" items off the end of our 
-*        array. This class is not meant to replace the STL vector library, its simply a project
-*        to introduce the beginnings of creating complex / abstract data types. 
+*        This program implements a class that creates a queue of whatever size 
+*        the user would like to input. It can "push" or "pop" items in and
+*        out of the queue, know the max and current size of the queue, and 
+*        print the queue. 
 *        
 *  Usage: 
 *       - $ ./main filename
-*       - This will read in a file containing whatever values to be read into our list/array. 
+*       - This will make an instance of the class to use it's methods 
 *       
 *  Files:            
 *       main.cpp    : driver program 
-*       list.h      : header file with list defintion
-*       list.cpp    : list implementation
+*      
 *****************************************************************************/
 
 
