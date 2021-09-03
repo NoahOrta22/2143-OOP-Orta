@@ -14,5 +14,5 @@ very detailed comments.
 
 ### Instructions
 
-Run the program and it will print out integers in the array
+Run the program and it will print out integers in the queue.
 
