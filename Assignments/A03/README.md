@@ -8,4 +8,4 @@ This project shows my banner page
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | banner.cpp      | The banner page                                    |
+|   1   | A03.cpp         | The file containing the banner page                |
