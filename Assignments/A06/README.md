@@ -8,4 +8,4 @@ This is a UML diagram of how I would make a program to set up a students transcr
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [umlTranscript.png]| UML Diagram.      |
+|   1   | [umlTranscript.png] (umlTranscript.png) | UML Diagram.      |
